@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2022_Koba_B_O_Ind_2.4", "p2022_Koba_B_O_Ind_2.4\p2022_Koba_B_O_Ind_2.4.csproj", "{3C0010AA-BCED-4D51-A887-6292D49CF93A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C0010AA-BCED-4D51-A887-6292D49CF93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0010AA-BCED-4D51-A887-6292D49CF93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0010AA-BCED-4D51-A887-6292D49CF93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0010AA-BCED-4D51-A887-6292D49CF93A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7E3479-84FF-4AA6-B34E-6A804261FB23}
+	EndGlobalSection
+EndGlobal
